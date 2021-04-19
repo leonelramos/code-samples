@@ -15,6 +15,27 @@ The gif below shows my implementation of the Blinn shader including implementati
 
 ![](blinn.gif)
 
+## Panorama Stitcher : Python
+
+*Unfortunately, it is against UMD Academic Integrity Policy to post any of the code for this assignment*
+
+Implmentation of the Harris Corner Detector, RANSAC algorithm, and closest correspondences in order to stitch two images together.
+
+### Harris Corner Detector
+
+<img src="marked_corners1.png" height="350">
+
+<img src="marked_corners2.png" height="350">
+
+### Closest Correspondences
+
+<img src="marked_correspondences.png" height="350">
+
+### Resulting Panorama
+
+<img src="panorama.png" height="350">
+
+
 ## Image Carver : Python
 
 *Unfortunately, it is against UMD Academic Integrity Policy to post any of the code for this assignment*
